@@ -14,4 +14,4 @@ enum mySalary {
     "Om"=555555
 }
 
-console.log(mySalary.Mayur)
+console.log(mySalary.Mayur);
